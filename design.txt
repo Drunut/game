@@ -1,0 +1,9 @@
+Model-View-Controller
+
+Model
+
+View
+pygame window
+
+Controller
+keyboard using pygame events

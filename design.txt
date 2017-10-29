@@ -1,6 +1,7 @@
 Model-View-Controller
 
 Model
+I have no clue.
 
 View
 pygame window
